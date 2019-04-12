@@ -20,7 +20,7 @@ Creating a page in GitHub isn't difficult, but you will want to get familiar wit
 
 Without further delay, here's how I got everything that you see here to display the way it is displaying:
 
-1. Download GitHub Dektop and login using your GitHub credentials. 
+1. Download GitHub Dektop and login using your GitHub credentials.
 2. Download SublimeText (or equivalent).
 3. Use the [GitHub Pages Guide](https://guides.github.com/features/pages/) to create a GitHub page and select a theme.
 4. Open GitHub Desktop and click the **Open in Sublime Text** button. You should see something like the screenshot for GitHub Desktop above.
