@@ -26,3 +26,11 @@ My name is powershellfish and I am a Technical Writer. I take highly technical i
 * Psychically or automatically know what information needs to be included or excluded in documentation
 * Write information that people won't want to use
 * Get bored
+
+# What you can expect to see here in the future
+
+I plan to experiment with some stuff here, like:
+> Python
+> PowerShell scripts
+> HTML and CSS
+> A maybe a little JavaScript!
