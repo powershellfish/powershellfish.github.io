@@ -30,7 +30,7 @@ My name is powershellfish and I am a Technical Writer. I take highly technical i
 # What you can expect to see here in the future
 
 I plan to experiment with some stuff here, like:
-> Python
-> PowerShell scripts
-> HTML and CSS
-> A maybe a little JavaScript!
+* Python
+* PowerShell scripts
+* HTML and CSS
+* A maybe a little JavaScript!
