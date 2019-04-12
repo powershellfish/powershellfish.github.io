@@ -18,5 +18,12 @@ Creating a page in GitHub isn't difficult, but you will want to get familiar wit
  
 Without further delay, here's how I got everything that you see here to display the way it is displaying:
 
-1. Use the [GitHub Pages Guide](https://guides.github.com/features/pages/) to create a GitHub page and select a theme.
-2. Modify the README.md file. 
+1. Download GitHub Dektop and login using your GitHub credentials. 
+2. Download SublimeText (or equivalent).
+3. Use the [GitHub Pages Guide](https://guides.github.com/features/pages/) to create a GitHub page and select a theme.
+4. Open GitHub Desktop and click the **Open in Sublime Text** button. You should see something like the screenshot for GitHub Desktop above.
+5. Edit the README.md file using markown. Feel free to play with GitHub flavored markown. It doesn't bite! :stuck_out_tongue_winking_eye:
+6. Save your file in SublimeText (press **Ctrl + S** if you are using a Windows machine). 
+7. Select the GitHub Desktop window. You should see your changes reflected for your markdown file on the screen. Add any notes in the **Description** field and click **Commit to master**. You should see something that looks like this: 
+![Commit](https://github.com/powershellfish/powershellfish.github.io/blob/master/githubdesktopcommit.jpg)
+
