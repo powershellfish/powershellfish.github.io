@@ -28,4 +28,5 @@ Without further delay, here's how I got everything that you see here to display 
 6. Save your file in SublimeText (press **Ctrl + S** if you are using a Windows machine). 
 7. Select the GitHub Desktop window. You should see your changes reflected for your markdown file on the screen. Add any notes in the **Description** field and click **Commit to master**. You should see something that looks like this: 
 ![Commit](https://github.com/powershellfish/powershellfish.github.io/blob/master/githubdesktopcommit.jpg)
-
+8. Click **Push origin**.
+9. Return to your web browser and refresh the markdown page you edited. You should see your changes. 
