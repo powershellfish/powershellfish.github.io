@@ -19,7 +19,7 @@ My name is powershellfish and I am a Technical Writer. I take highly technical i
 ### Personal
 * Hike and hang out with my dog, Gizmo
 * Build miniatures and create video tutorials on how others can construct them
-* Obsessively keep learning new things about SQL and data analysis
+* Obsessively keep learning new things about GitHub, SQL and data analysis
 
 ## What I Do *Not* Do
 
