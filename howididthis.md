@@ -14,8 +14,8 @@ Time Machine | Leap Day
 
 Creating a page in GitHub isn't difficult, but you will want to get familiar with the following items before continuing:
 - [Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) - this is the format README files are stored in on GitHub. You can edit the text using some basic symbols and Jekyll will render it into the webpage format you'll see later.
-- 
-
+- [GitHub Desktop](https://desktop.github.com/) - This application allows you to make commits, checkout branches and edit your GitHub page using Mardown in your preferred editor. In this case, I have chosen to use [SublimeText](https://www.sublimetext.com/) as my editor, but you can also use a tool like [Notepad++](https://notepad-plus-plus.org/). 
+ 
 Without further delay, here's how I got everything that you see here to display the way it is displaying:
 
 1. Use the [GitHub Pages Guide](https://guides.github.com/features/pages/) to create a GitHub page and select a theme.
