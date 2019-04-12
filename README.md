@@ -9,12 +9,12 @@ My name is powershellfish and I am a Technical Writer. I take highly technical i
 ## What I Do
 
 ### Professional
-* Interview SMEs and take lots of notes 
-* Translate technical information and put it into the correct format according to the audience
+* Interview SMEs and take *lots* of notes 
 * Work directly with the product so that I can write about it
+* Translate technical information and put it into the correct format according to the audience
 * Develop tutorials
 * Learn and adapt to dynamic and rapidly changing projects
-* Support my colleagues and foster an environment where can all work together towards a common goal
+* Support my colleagues and foster an environment where we can work as a team towards a common goal
 
 ### Personal
 * Hike and hang out with my dog, Gizmo
