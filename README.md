@@ -34,6 +34,3 @@ I plan to experiment with some stuff here, like:
 - [ ] PowerShell scripts
 - [ ] HTML and CSS
 - [ ] A maybe a little JavaScript!
-
-
-BLAH
