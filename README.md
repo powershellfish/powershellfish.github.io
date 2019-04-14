@@ -1,6 +1,8 @@
 # powershellfish's GitHub Page
 
-Here's the default **README** for my user page. This is designed to be a test project and where I will show you what I'm working on. Want to know how I set this up? Check out my tiny walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/blob/master/howididthis.md).
+Here's the default **README** for my user page. This is designed to be a test project and where I will show you what I'm working on. Want to know how I set this up? Check out my tiny walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-This-Up). 
+
+FYI, you can also get to the walkthrough by going to the Wiki and clicking the **How I Set This Up** section.
 
 # A Little Bit About Me and What I Do
 
