@@ -1,12 +1,14 @@
 # powershellfish's GitHub Page
 
-Here's the default **README** for my user page. This is designed to be a test project and where I will show you what I'm working on. Want to know how I set this up? Check out my tiny walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-This-Up). 
+Here's the default **README** for my user page. This is designed to be a test project and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 
-FYI, you can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.
+Want to know how I set this up? Check out my tiny walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-This-Up). 
+
+(FYI, you can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.)
 
 # A Little Bit About Me and What I Do
 
-My name is powershellfish and I am a Technical Writer. I take highly technical information from different sources and turn it into something that makes sense for different audiences. I do stuff like talk to developers (subject matter experts or **SMEs** for short) to understand what they're working on, how to set it up, how to use what they've built, and how to troubleshoot any potential issues users could run into when using the product. 
+My name is Caroline and I am a Technical Writer. I take highly technical information from different sources and turn it into something that makes sense for different audiences. I do stuff like talk to developers (subject matter experts or **SMEs** for short) to understand what they're working on, how to set it up, how to use what they've built, and how to troubleshoot any potential issues users could run into when using the product. 
 
 ## What I Do
 
