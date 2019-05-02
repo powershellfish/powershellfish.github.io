@@ -27,8 +27,8 @@ My name is Caroline and I am a Technical Writer. I take highly technical informa
 
 ## What I Do *Not* Do
 
-* Psychically or automatically know what information needs to be included or excluded in documentation
-* Write information that people won't want to use or that is not accessible
+* Automatically know what information included or excluded in documentation (that's what the interviews are for! I love interviewing and information gathering!)
+* Write information or make learning materials that people won't want to use or that is not accessible
 * Get bored
 
 # What you can expect to see here in the future
