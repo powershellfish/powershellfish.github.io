@@ -25,12 +25,6 @@ My name is Caroline and I am a technical communicator. I take highly technical i
 * Build miniatures and create video tutorials on how others can construct them
 * Spend time learning new things about GitHub, professional/technical communications, SQL and Python
 
-## What I Do *Not* Do
-
-* Leave things as "good enough"
-* Write information or make learning materials that people won't want to use or that are not accessible
-* Get bored
-
 # What you can expect to see here in the future
 
 I plan to experiment with some stuff here, like:
