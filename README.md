@@ -15,8 +15,8 @@ My name is Caroline and I am a technical communicator. I take highly technical i
 ### Professional
 * Interview SMEs and take *lots* of notes 
 * Work directly with the product so that I can write about it
-* Translate technical information and put it into the correct format according to the audience
-* Develop training materials
+* Translate technical information and put it into the correct format depending on the audience
+* Assess and construct information architecture according to best practices
 * Learn and adapt to dynamic and rapidly changing projects
 * Support my colleagues and foster an environment where we can work as a team towards a common goal
 
@@ -31,4 +31,4 @@ I plan to experiment with some stuff here, like:
 - [ ] Python
 - [ ] PowerShell scripts
 - [ ] HTML and CSS
-- [ ] A maybe a little JavaScript!
+- [ ] A maybe a little JavaScript
