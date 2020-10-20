@@ -23,7 +23,7 @@ My name is Caroline and I am a technical communicator. I take highly technical i
 ### Personal
 * Hike and hang out with my dog, Gizmo
 * Build miniatures and create video tutorials on how others can construct them
-* Spend time learning new things about GitHub, professional/technical communications, SQL and Python
+* Spend time learning new things about GitHub, SQL and Python
 
 # What you can expect to see here in the future
 
