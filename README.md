@@ -32,5 +32,5 @@ I'm really passionate about taking information and making it accessible to other
 I plan to experiment with some stuff here, like:
 - [ ] Python
 - [ ] PowerShell scripts
-- [ ] HTML and CSS
+- [ ] HTML and CSS and other front-end stuff
 - [ ] A maybe a little JavaScript
