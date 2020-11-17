@@ -28,7 +28,7 @@ I'm really passionate about taking information and making it accessible to other
 * Build miniatures and create video tutorials on how others can construct them
 * Spend time learning new things about Python, SQL, and data analytics. 
 
-# Some of my Projects
+## Some of my Projects
 
 - [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
 - [ ] [Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
