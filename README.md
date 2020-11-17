@@ -28,11 +28,6 @@ I'm really passionate about taking information and making it accessible to other
 * Build miniatures and create video tutorials on how others can construct them
 * Spend time learning new things about Python, SQL, and data analytics. 
 
-# What you can expect to see here in the future
+# Some of my Projects
 
-I plan to experiment with some stuff here, like:
-- [ ] Python
-- [ ] PowerShell scripts
-- [ ] HTML and CSS and other front-end stuff
-- [ ] A maybe a little JavaScript
-- [ ] SQL projects
+- [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
