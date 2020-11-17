@@ -31,3 +31,4 @@ I'm really passionate about taking information and making it accessible to other
 # Some of my Projects
 
 - [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
+- [ ] [Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
