@@ -1,6 +1,6 @@
 # powershellfish's GitHub Page
 
-Here's the default **README** for my user page. This is designed to be a test project and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
+Here's the default **README** for my user page. This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 
 Want to know how I set this up? Check out my short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). 
 
@@ -26,7 +26,8 @@ I'm really passionate about taking information and making it accessible to other
 ### Personal
 * Hike and hang out with my dog, Gizmo
 * Build miniatures and create video tutorials on how others can construct them
-* Spend time learning new things about Python, SQL, and data analytics. 
+* Do yoga, barre, spin, and run
+* Spend time learning new things about Python, SQL, and data analytics 
 
 # What you can expect to see here in the future
 
