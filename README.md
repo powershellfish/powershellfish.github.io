@@ -1,15 +1,18 @@
 # powershellfish's GitHub Page
 
-This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
-
-This process was kind of confusing to me when I was new to Git/coding/markdown, so I wrote a short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). The walkthrough assumes no prior knowledge for any part of the process or the tools used to complete it.
-
-(*You can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.*)
+>This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
+>
+>This process was kind of confusing to me when I was new to Git/coding/markdown, so I wrote a short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). The walkthrough assumes no prior knowledge for any part of the process or the tools used to complete it.
+>
+>>(*You can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.*)
 
 # Git Stuff
 
 ## Repos
-I have a handful of repos. You can read more about what each of them does below:
+I have a handful of repos. You can read more about what each of them does below.
+
+> This is mainly for my benefit so I can see everything at-a-glance on the main page.
+
 * [Actual Projects](https://powershellfish.github.io/Actual-Projects/)
 * [Main Git Page (pssst: you're already here)](https://powershellfish.github.io)
 * [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/)
