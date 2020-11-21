@@ -29,9 +29,19 @@ I'm really passionate about taking information and making it accessible to other
 * Do yoga, barre, spin, and run
 * Spend time learning new things about Python, SQL, and data analytics 
 
+## My Repos
+I have a handful of repos. You can read more about what each of them does below:
+* [powershellfish.github.io](powershellfish.github.io)
+* [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/)
+* [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/)
+* [Powershell](https://powershellfish.github.io/powershell/)
+
+
+
+
 ## Some of my Projects
 
-FYI, you can see all of my live projects [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
+FYI, you can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
 
 - [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
 - [ ] [Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
