@@ -1,6 +1,6 @@
 # powershellfish's GitHub Page
 
-Here's the default **README** for my user page. This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
+This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 
 Want to know how I set this up? Check out my short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). 
 
