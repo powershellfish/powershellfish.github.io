@@ -8,7 +8,7 @@ This process was kind of confusing to me when I was new to Git/coding/markdown, 
 
 # Git Stuff
 
-## Repo Summary
+## Repos
 I have a handful of repos. You can read more about what each of them does below:
 * [Actual Projects](https://powershellfish.github.io/Actual-Projects/)
 * [Main Git Page (pssst: you're already here)](https://powershellfish.github.io)
@@ -16,7 +16,7 @@ I have a handful of repos. You can read more about what each of them does below:
 * [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/)
 * [Powershell](https://powershellfish.github.io/powershell/)
 
-## Some of my Projects
+## Projects
 
 FYI, you can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
 
