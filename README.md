@@ -6,6 +6,22 @@ Want to know how I set this up? Check out my short walkthrough [here](https://gi
 
 (FYI, you can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.)
 
+# Git Stuff
+
+## My Repos
+I have a handful of repos. You can read more about what each of them does below:
+* [powershellfish.github.io](powershellfish.github.io)
+* [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/)
+* [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/)
+* [Powershell](https://powershellfish.github.io/powershell/)
+
+## Some of my Projects
+
+FYI, you can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
+
+- [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
+- [ ] [Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
+
 # A Little Bit About Me and What I Do
 
 My name is Powershellfish and I am a technical communicator and general tech nerd. I take highly technical information from different sources and turn it into something that makes sense for different audiences. I do stuff like talk to developers (subject matter experts or **SMEs** for short) to understand what they're working on, how to set it up, how to use what they've built, and how to troubleshoot any potential issues users could run into when using the product. 
@@ -28,21 +44,4 @@ I'm really passionate about taking information and making it accessible to other
 * Build miniatures and create video tutorials on how others can construct them
 * Do yoga, barre, spin, and run
 * Spend time learning new things about Python, SQL, and data analytics 
-
-## My Repos
-I have a handful of repos. You can read more about what each of them does below:
-* [powershellfish.github.io](powershellfish.github.io)
-* [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/)
-* [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/)
-* [Powershell](https://powershellfish.github.io/powershell/)
-
-
-
-
-## Some of my Projects
-
-FYI, you can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
-
-- [ ] [NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
-- [ ] [Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
 
