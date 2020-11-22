@@ -13,11 +13,11 @@ I have a handful of repos. You can read more about what each of them does below.
 
 > This is mainly for my benefit so I can see everything at-a-glance on the main page.
 
-* [Actual Projects](https://powershellfish.github.io/Actual-Projects/)
-* [Main Git Page (pssst: you're already here)](https://powershellfish.github.io)
-* [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/)
-* [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/)
-* [Powershell](https://powershellfish.github.io/powershell/)
+* [Actual Projects](https://powershellfish.github.io/Actual-Projects/): Mostly-finished projects I've built from scratch, or using requirements that did not come from an exercise. You can download and run them. 
+* [Main Git Page](https://powershellfish.github.io): You're on this page right now. 
+* [Codecademy Projects](https://powershellfish.github.io/Codecademy-Projects/): Projects I developed on Codecademy (shocking).
+* [Python Programming for the Absolute Beginner: 3rd Edition](https://powershellfish.github.io/python_programming_3e/): Exercises from the Python book I'm using.
+* [Powershell](https://powershellfish.github.io/powershell/): Where I keep my powershell scripts. I am most fond of this one.
 
 ## Projects
 
