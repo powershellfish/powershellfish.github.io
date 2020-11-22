@@ -11,7 +11,7 @@
 ## Repos 
 I have a handful of repos. You can read more about what each of them does below.
 
-> This is mainly for my benefit so I can see everything at-a-glance on the main page.
+> 💬 This is mainly for my benefit so I can see everything at-a-glance on the main page.
 
 * [Actual Projects](https://powershellfish.github.io/Actual-Projects/): Mostly-finished projects I've built from scratch, or using requirements that did not come from an exercise. You can download and run them. 
 * [Main Git Page](https://powershellfish.github.io): You're on this page right now. 
