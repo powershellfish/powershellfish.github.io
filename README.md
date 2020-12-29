@@ -36,12 +36,9 @@ FYI, you can see all of my **live projects** [here](https://powershellfish.githu
 ## What I Do
 
 >### Professional
->>* Interview SMEs and take *lots* of notes 
 >>* Work directly with the product so that I can write about it
 >>* Translate technical information and put it into the correct format depending on the audience
 >>* Assess and construct information architecture according to best practices
->>* Learn and adapt to dynamic and rapidly changing projects
->>* Support my colleagues and foster an environment where we can work as a team towards a common goal
 
 >### Personal
 >>* 🎧 Make electronic [music](https://soundcloud.com/explodingsunset) 
