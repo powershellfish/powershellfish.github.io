@@ -44,8 +44,9 @@ FYI, you can see all of my **live projects** [here](https://powershellfish.githu
 >>* Support my colleagues and foster an environment where we can work as a team towards a common goal
 
 >### Personal
+>>* 🎧 Make electronic [music](https://soundcloud.com/explodingsunset) 
 >>* 🥾 Hike and hang out with my dog, Gizmo 🐺
->>* 🏭 Build miniatures and create video tutorials on how others can construct them
+>>* 🏭 Build miniatures and create [video tutorials](https://www.youtube.com/channel/UC04S3GpB-oeoe5Ojs65WHAw) on how others can construct them
 >>* 🧘‍ Do yoga, barre, spin, and run
 >>* 🔢 Spend time learning new things about Python, SQL, and data analytics
 >>* 📖 Read! You can see what I'm reading [here.](https://www.goodreads.com/user/show/1258553-powershellfish) 
