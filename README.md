@@ -1,5 +1,7 @@
 # 💻 powershellfish's GitHub Page
 
+>*I'm still alive! I just haven't posted anything new for a few months.*
+>
 >This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 >
 >This process was kind of confusing to me when I was new to Git/coding/markdown, so I wrote a short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). The walkthrough assumes no prior knowledge for any part of the process or the tools used to complete it.
