@@ -1,7 +1,7 @@
 # 💻 powershellfish's GitHub Page
 
 >
->>*I'm a little slow with the updates right now since I start this data analyst certificate program! Those files are starting to stack up in my repo and are almost entirely labs and other simple/probably not very interesting things.*
+>>*I'm a little slow with the updates right now since I started this data analyst certificate program! Those files are starting to stack up in my repo and are almost entirely labs and other simple/probably not very interesting things.*
 >
 >This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 >
