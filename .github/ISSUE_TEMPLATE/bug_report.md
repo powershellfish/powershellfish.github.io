@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Tell me what's wrong in clear, concise, plain language.
 
 **To Reproduce**
 Steps to reproduce the behavior:

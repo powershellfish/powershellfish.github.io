@@ -3,7 +3,7 @@
 >
 >>*I'm a little slow with the updates right now since I started this data analyst certificate program! Those files are starting to stack up in my repo and are almost entirely labs and other simple/probably not very interesting things.*
 >
->This is the main page for my GitHub projects and where I will show you what I'm working on. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
+>This is the main page for my GitHub projects and where I will show you what I'm working on. It's also where I share a little bit about myself and other things I'm interested in. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
 >
 >This process was kind of confusing to me when I was new to Git/coding/markdown, so I wrote a short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). The walkthrough assumes no prior knowledge for any part of the process or the tools used to complete it.
 >
