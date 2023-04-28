@@ -12,7 +12,7 @@
 # 💾 Git Stuff
 
 ## Repos 
-I have a handful of repos. You can read more about what each of them does below.
+I have a handful of repos. You can read more about what each of them does below.4
 
 > 💬 This is mainly for my benefit so I can see everything at-a-glance on the main page.
 
@@ -30,7 +30,7 @@ I have a handful of repos. You can read more about what each of them does below.
 
 ### Personal Projects
 
-FYI, you can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
+You can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
 
 - ✍[NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
 - 🍕[Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
