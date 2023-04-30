@@ -19,7 +19,7 @@ I have a handful of repos. You can read more about what each of them does below.
 ### OpenSearch Project and Data Prepper
 
 My most recent project that I have been working on is documentation for the [OpenSearch project](https://opensearch.org/), specifically for [Data Prepper](https://opensearch.org/docs/latest/data-prepper/index/) and the plugins you can use with it. I have had so much fun using this distributed search and analytics engine and working with the community to learn more about its many use cases. Data Prepper has been a particularly fascinating tool to play with while I work on completing my data analyst certificate program. 
->You can view the work I did on OpenSearch [here](https://github.com/carolxob).
+>You can view the work I've done on OpenSearch [here](https://github.com/carolxob). Please note that I'm working on creating a summary page to make it easier to view that work.
 
 ### Personal Projects
 
