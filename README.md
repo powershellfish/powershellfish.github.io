@@ -1,18 +1,10 @@
 # 💻 powershellfish's GitHub Page
 
->
->>*I'm a little slow with the updates right now since I started this data analyst certificate program! Those files are starting to stack up in my repo and are almost entirely labs and other simple/probably not very interesting things.*
->
->This is the main page for my GitHub projects and where I will show you what I'm working on. It's also where I share a little bit about myself and other things I'm interested in. I used [Jekyll](https://jekyllrb.com/) to render my default README markdown file into this webpage. 
->
->This process was kind of confusing to me when I was new to Git/coding/markdown, so I wrote a short walkthrough [here](https://github.com/powershellfish/powershellfish.github.io/wiki/How-I-Set-Up-My-GitHub-User-Page). The walkthrough assumes no prior knowledge for any part of the process or the tools used to complete it.
->
->>(*You can also get to the walkthrough by going to the Wiki and clicking the **How I Set Up My GitHub User Page** section.*)
 
 # 💾 Git Stuff
 
 ## Repos 
-I have a handful of repos. You can read more about what each of them does below.4
+I have a handful of repos. You can read more about what each of them does below.
 
 > 💬 This is mainly for my benefit so I can see everything at-a-glance on the main page.
 
@@ -24,9 +16,10 @@ I have a handful of repos. You can read more about what each of them does below.
 
 ## Projects
 
-### OpenSearch and Data Prepper
+### OpenSearch Project and Data Prepper
 
-
+My most recent project that I am involved with is documentation for the [OpenSearch project](https://opensearch.org/), specifically for [Data Prepper](https://opensearch.org/docs/latest/data-prepper/index/) and the plugins you can use with it. I have had so much fun using this distributed search and analytics engine and working with the community to learn more about its many use cases. Data Prepper has been a particularly fascinating tool to play with while I work on completing my data analyst certificate program. 
+>You can view the work I did on OpenSearch [here](https://github.com/carolxob).
 
 ### Personal Projects
 
@@ -39,7 +32,7 @@ You can see all of my **live projects** [here](https://powershellfish.github.io/
 
 >My name is Powershellfish and I am a technical communicator and general tech enthusiast. I take highly technical information from different sources and turn it into something that makes sense for different audiences. I do stuff like talk to developers (subject matter experts or **SMEs** for short) to understand what they're working on, how to set it up, how to use what they've built, and how to troubleshoot any potential issues users could run into when using the product. I also configure my own environment and run the software myself so best understand the needs of the users I support. 
 >
->I'm really passionate about taking information and making it accessible to others - whether that means translating textual information and concepts into a format novices will understand, or taking data and numbers and producing a visualization that more clearly communicates what's going on. I smash barriers to access information. I'm also a big fan of constant improvement, so if you have any suggestions on how to make what I've built better, please submit an issue/PR! 
+>I'm really passionate about taking information and making it accessible to others - whether that means translating textual information and concepts into a format novices will understand, or taking data and numbers and producing a visualization that more clearly communicates what's going on. I smash barriers to access information. I'm also a big fan of constant improvement, so if you have any suggestions on how to make what I've built better, please fork this repo and submit an issue! 
 
 
 ## What I Do
