@@ -23,7 +23,7 @@ My most recent project that I have been working on is documentation for the [Ope
 
 ### Personal Projects
 
-You can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. 
+You can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. Because reasons.
 
 - ✍[NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
 - 🍕[Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
