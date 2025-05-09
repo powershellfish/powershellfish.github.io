@@ -1,6 +1,6 @@
 # 💻 powershellfish's GitHub Page
 
-# 🎀About Me/Philosophy
+# 📝 About Me/Philosophy
 
 My name is Caroline and I am a technical communicator and general tech enthusiast. I take highly technical information from different sources and turn it into something that makes sense for different audiences. I do stuff like talk to developers (subject matter experts or **SMEs** for short) to understand what they're working on, how to set it up, how to use what they've built, and how to troubleshoot any potential issues users could run into when using the product. I also configure my own environment and run the software myself so best understand the needs of the users I support. 
 
@@ -18,14 +18,12 @@ I'm really passionate about taking information and making it accessible to other
 * Assess and construct information architecture according to best practices
 
 ### Personal
-* 🎧 Make electronic music [Exploding Sunset](https://soundcloud.com/explodingsunset) and [fracturedsynapse](https://soundcloud.com/fracturedsynapse)
+* 🎧 Make electronic music [Exploding Sunset](https://soundcloud.com/explodingsunset) 
 * 🥾 Hike and hang out with my dog, Gizmo 🐺
-* 🏭 Build miniatures and create [video tutorials](https://www.youtube.com/channel/UC04S3GpB-oeoe5Ojs65WHAw) on how others can construct them
+* 🏭 Build miniatures and create tutorials on how others can construct them
 * 🧘‍ Do yoga, barre, spin, and run
 * 🔢 Spend time learning new things about Python, SQL, and data analytics
 * 📖 Read! You can see what I'm reading [here.](https://www.goodreads.com/user/show/1258553-powershellfish) 
-
-# 🍕
 
 # 💾 Git Stuff
 
