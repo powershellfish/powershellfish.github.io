@@ -12,6 +12,7 @@ I'm really passionate about taking information and making it accessible to other
 ## What I Do
 
 ### Professional
+* Lead documentation efforts and junior writers on documentation teams
 * Interact directly with the product/hardware so that I can write about it
 * Translate technical information and put it into the correct format depending on the audience
 * Assess and construct information architecture according to best practices
