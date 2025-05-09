@@ -6,7 +6,7 @@ My name is Caroline and I am a technical communicator and general tech enthusias
 
 I'm really passionate about taking information and making it accessible to others - whether that means translating textual information and concepts into a format novices will understand, or taking data and numbers and producing a visualization that more clearly communicates what's going on. I smash barriers to access information. I'm also a big fan of constant improvement, so if you have any suggestions on how to make what I've built better, go ahead and submit an issue.
 
->You can check out my [work experience and portfolio here](https://powershellfish.gitbook.io/resume-and-portfolio). 
+>✨ **You can check out my [work experience and portfolio here](https://powershellfish.gitbook.io/resume-and-portfolio)**. 
 
 
 ## What I Do
