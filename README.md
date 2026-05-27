@@ -22,7 +22,7 @@ I'm really passionate about taking information and making it accessible to other
 * 🥾 Hike and hang out with my dog, Gizmo 🐺
 * 🏭 Build miniatures and create tutorials on how others can construct them
 * 🧘‍ Do yoga, barre, spin, and run
-* 🔢 Spend time learning new things about Python, SQL, and data analytics
+* 🔢 Spend time learning new things about use cases for AI, Python, SQL, and data analytics
 * 📖 Read! You can see what I'm reading [here.](https://www.goodreads.com/user/show/1258553-powershellfish) 
 
 # 💾 Git Stuff
