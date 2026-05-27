@@ -12,18 +12,17 @@ I'm really passionate about taking information and making it accessible to other
 ## What I Do
 
 ### Professional
-* Lead documentation efforts and junior writers on documentation teams
+* Lead documentation strategy efforts and mentor junior writers on documentation teams
 * Interact directly with the product/hardware so that I can write about it
 * Translate technical information and put it into the correct format depending on the audience
 * Assess and construct information architecture according to best practices
 
 ### Personal
-* 🎧 Make electronic music [Exploding Sunset](https://soundcloud.com/explodingsunset) 
 * 🥾 Hike and hang out with my dog, Gizmo 🐺
 * 🏭 Build miniatures and create tutorials on how others can construct them
-* 🧘‍ Do yoga, barre, spin, and run
+* 🧘‍ Get outside
 * 🔢 Spend time learning new things about use cases for AI, Python, SQL, and data analytics
-* 📖 Read! You can see what I'm reading [here.](https://www.goodreads.com/user/show/1258553-powershellfish) 
+* 📖 Read! 
 
 # 💾 Git Stuff
 
@@ -42,12 +41,12 @@ I have a handful of repos. You can read more about what each of them does below.
 
 ### OpenSearch Project and Data Prepper
 
-My most recent project that I have been working on is documentation for the [OpenSearch project](https://opensearch.org/), specifically for [Data Prepper](https://opensearch.org/docs/latest/data-prepper/index/) and the plugins you can use with it. I have had so much fun using this distributed search and analytics engine and working with the community to learn more about its many use cases. Data Prepper has been a particularly fascinating tool to play with while I work on completing my data analyst certificate program. 
->You can view the work I've done on OpenSearch [here](https://github.com/carolxob). Please note that I'm working on creating a summary page to make it easier to view that work.
+My most recent project that I have been working on is documentation for the [OpenSearch project](https://opensearch.org/), specifically for [Data Prepper](https://opensearch.org/docs/latest/data-prepper/index/) and the plugins you can use with it. I have had so much fun using this distributed search and analytics engine and working with the community to learn more about its many use cases. Data Prepper has been a particularly fascinating tool to play with while I worked on completing my data analyst certificate program. 
+>You can view the work I've done on OpenSearch [here](https://github.com/carolxob). (I'm working on a summary page to make it easier to view that work.)
 
 ### Personal Projects
 
-You can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here. Because reasons.
+You can see all of my **live projects** [here](https://powershellfish.github.io/Actual-Projects/). But for right now, I'm also listing them here.
 
 - ✍[NaNoWriMo Bot](https://github.com/powershellfish/Actual-Projects/blob/main/NaNoWriMo.py)
 - 🍕[Restaurant Chooser](https://github.com/powershellfish/Actual-Projects/blob/main/random_restaurant.py)
